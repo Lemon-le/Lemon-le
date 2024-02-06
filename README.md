@@ -14,6 +14,7 @@ About me 🍑
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-le&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Lemon-le" /> </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lemon-le)](https://github.com/ryo-ma/github-profile-trophy)
 
 
