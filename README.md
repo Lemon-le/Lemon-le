@@ -17,4 +17,6 @@ About me 🍑
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lemon-le)](https://github.com/ryo-ma/github-profile-trophy)
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=Lemon-le
+
 
