@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemon-le)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemon-le&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemon-le&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemon-le&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemon-le&show_icons=true&theme=panda)
+
+
