@@ -1,6 +1,6 @@
 About me 🍑
 ---
-
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Lemon-le" /> </div>
 - 🔭  李先生（Lemon）
 - 🌱  SRE ｜ 网络工程师
 - 👯  喝茶🍵、爬山🧗、徒步🏃
@@ -16,7 +16,5 @@ About me 🍑
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lemon-le)](https://github.com/ryo-ma/github-profile-trophy)
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=Lemon-le
 
 
