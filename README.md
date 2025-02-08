@@ -4,7 +4,7 @@
 🤔️ 那我的梦想去哪了呢，似乎也不知道自己喜欢什么，也不知道自己爱好点什么？ 只是一直在路上。
 
 #### 关于作者 🎯
-Lemon，90后，励志成为SRE领域的网络专家
+Lemon，90后，励志成为SRE领域的网络专家  
 <img width="314" alt="image" src="https://github.com/user-attachments/assets/5594ce11-15ce-4a1a-984e-ecafb93314df" />
 
 #### deepseek 🍻  
