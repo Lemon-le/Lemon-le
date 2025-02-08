@@ -6,7 +6,7 @@
 #### 关于作者 🎯
 Lemon，90后，励志成为SRE领域的网络专家
 
-<img width="313" alt="image" src="https://github.com/user-attachments/assets/9abab963-aaf4-4c57-8e51-6ca63f0f72b5" />
+<img width="122" alt="image" src="https://github.com/user-attachments/assets/9e5215e7-06e0-4424-9fb1-94a34251b731" />
 
 
 #### deepseek 🍻  
