@@ -4,7 +4,10 @@
 🤔️ 那我的梦想去哪了呢，似乎也不知道自己喜欢什么，也不知道自己爱好点什么？ 只是一直在路上。
 
 #### 关于作者 🎯
-Lemon，90后，励志成为SRE领域的网络专家 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img width="150" alt="image" src="https://github.com/user-attachments/assets/e3a3eb24-124c-4b72-b110-4d28c6b586e1" />
+Lemon，90后，励志成为SRE领域的网络专家
+
+<img width="313" alt="image" src="https://github.com/user-attachments/assets/9abab963-aaf4-4c57-8e51-6ca63f0f72b5" />
+
 
 #### deepseek 🍻  
 最好的SRE不是从不犯错的工程师，而是能构建容错体系的设计师。对待自己也该如此。 
