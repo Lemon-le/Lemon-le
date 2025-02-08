@@ -5,13 +5,10 @@
 
 #### 关于作者 🎯
 Lemon，90后，励志成为SRE领域的网络专家
-
+<img width="314" alt="image" src="https://github.com/user-attachments/assets/5594ce11-15ce-4a1a-984e-ecafb93314df" />
 
 #### deepseek 🍻  
 最好的SRE不是从不犯错的工程师，而是能构建容错体系的设计师。对待自己也该如此。 
 
 #### 进一步了解 🥤
 通过"Discussions"打造自己的知识体系，可点击下方⬇️Pinned的Repositories进入，然后点击标签栏🏷️的"Discussions"查看所有文章。
-
-#### 公众号
-<img width="186" alt="image" src="https://github.com/user-attachments/assets/855d5f99-b429-43f8-bb16-5ba9496623f3" />
