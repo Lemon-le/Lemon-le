@@ -1,76 +1,147 @@
-🌐 Build · Learn · Share · Grow
-构建 · 学习 · 分享 · 成长
+## 🌐 Build · Learn · Share · Grow
+**构建 · 学习 · 分享 · 成长**
 
-🌟 What is Netcraft Lab?
-Netcraft Lab · 网络工坊 不只是一个学习项目，它是一个网络工程师的成长实验室。
+## 🌟 What is Netcraft Lab?
+**Netcraft Lab · 网络工坊** 不只是一个学习项目，它是一个**网络工程师的成长实验室**。
+
 在这里，我将：
-🔬 实验 - 动手实践每一个网络技术
-📚 学习 - 系统性构建网络知识体系
-✍️ 输出 - 将所学转化为可分享的知识
-🚀 成长 - 从新手走向网络专家
-"Talk is cheap. Show me the lab."
-"空谈误事，实验为证。"
 
-📌 项目定位
-本仓库致力于：
-📚 系统整理 CCNA / CCNP / CCIE 各阶段实验内容
-🧪 提供可复现的 Lab 拓扑与配置
-🔍 深入解析关键技术点与原理
-🛠️ 分享真实工程场景中的设计思路
-🌐 构建一个长期更新的网络技术知识库
++ 🔬 **实验** - 动手实践每一个网络技术
++ 📚 **学习** - 系统性构建网络知识体系
++ ✍️ **输出** - 将所学转化为可分享的知识
++ 🚀 **成长** - 从新手走向网络专家
 
-🧪 实验环境支持
+> _"Talk is cheap. Show me the lab."_
+>
+> _"空谈误事，实验为证。"_
+>
 
-本项目支持以下主流实验平台：
+---
 
-🖥️ EVE-NG
-🌐 GNS3
-☁️ Cisco CML
-🐳 Container-based Labs（部分自动化实验）
+## 🎯 Vision · 愿景
+> **成为一名真正的网络专家**
+>
+> 不只是考过认证，而是真正理解和掌握
+>
+> **Build a complete network knowledge system from fundamentals to expert level**
+>
+> 构建一套完整的网络知识体系，从基础到专家级别
+>
 
-💡 Philosophy · 理念
+---
 
-🔬 实践第一	Practice First
-🧠 深度理解	Deep Understanding
-🔄 系统思维	Systematic Thinking
-✍️ 持续输出	Continuous Output
-🔬 实践第一 (Practice First)
-"纸上得来终觉浅，绝知此事要躬行。"
-
-🧠 深度理解 (Deep Understanding)
-"知其然，更要知其所以然。"
-不只记住配置命令
-理解协议的设计思想
-掌握技术的应用场景
-形成自己的技术直觉
-
-🔄 系统思维 (Systematic Thinking)
-"不谋全局者，不足谋一域。"
-建立完整的知识框架
-理解技术之间的关联
-从点到线，从线到面
-形成网络化的知识体系
-
-📚 What's Inside · 项目内容
-🟢 CCNA	网络基础、交换、路由、IP服务、安全、自动化
-🟡 CCNP	高级路由、高级交换、VPN、网络服务、安全
-🔴 CCIE	复杂路由、MPLS、网络设计、故障排除、综合
-
-🌈 Aspirations · 憧憬
-Keep learning. Keep growing. Keep coding the network.
-持续学习，持续成长，持续编织网络。
+## 💡 Philosophy · 理念
+### 核心信条
+| 理念 | 说明 |
+| :---: | --- |
+| 🔬 **实践第一** | Practice First |
+| 🧠 **深度理解** | Deep Understanding |
+| 🔄 **系统思维** | Systematic Thinking |
+| ✍️ **持续输出** | Continuous Output |
 
 
-🤝 Connect · 联系
-● 📧 Email: [your-email]
-● 💼 LinkedIn: [your-linkedin]
-● 🐙 GitHub: [your-github]
-● 📝 Blog: [your-blog]
+### 🔬 实践第一 (Practice First)
+> _"纸上得来终觉浅，绝知此事要躬行。"_
+>
+
++ 每个概念都要动手验证
++ 每个协议都要亲自配置
++ 每个问题都要实际排查
++ 实验室是最好的老师
+
+### 🧠 深度理解 (Deep Understanding)
+> _"知其然，更要知其所以然。"_
+>
+
++ 不只记住配置命令
++ 理解协议的设计思想
++ 掌握技术的应用场景
++ 形成自己的技术直觉
+
+### 🔄 系统思维 (Systematic Thinking)
+> _"不谋全局者，不足谋一域。"_
+>
+
++ 建立完整的知识框架
++ 理解技术之间的关联
++ 从点到线，从线到面
++ 形成网络化的知识体系
+
+---
+
+## 📚 What's Inside · 项目内容
+| 级别 | 实验数 | 内容 |
+| :---: | :---: | --- |
+| 🟢 CCNA | 40 | 网络基础、交换、路由、IP服务、安全、自动化 |
+| 🟡 CCNP | 35 | 高级路由、高级交换、VPN、网络服务、安全 |
+| 🔴 CCIE | 25 | 复杂路由、MPLS、网络设计、故障排除、综合 |
+
+---
 
 
-"每一个专家都曾经是初学者。"
-"Every expert was once a beginner."
+### ✉️ 写给未来的自己
 
-Netcraft Lab · 网络工坊
-Build Networks. Build Knowledge. Build Yourself.
-构建网络 · 构建知识 · 构建自己
+>
+> Keep learning. Keep growing. Keep coding the network.
+>
+> 持续学习，持续成长，持续编织网络。
+>
+>
+
+---
+
+## 🔥 Manifesto · 宣言
+---
+
+### **NETCRAFT LAB · 网络工坊宣言**
+**我相信**：
+
+| 信念 | Belief |
+| --- | --- |
+| 实践出真知 | Practice makes perfect |
+| 坚持就是胜利 | Persistence is victory |
+| 输出倒逼输入 | Output drives input |
+| 分享创造价值 | Sharing creates value |
+
+
+**我承诺**：
+
+| 承诺 | Promise |
+| --- | --- |
+| 每天进步一点点 | Improve every single day |
+| 遇到困难不放弃 | Never give up on difficulties |
+| 保持好奇心和热情 | Stay curious and passionate |
+| 帮助他人共同成长 | Help others grow together |
+
+
+
+---
+
+## 🤝 Connect · 联系
++ 📧 Email: [your-email]
++ 💼 LinkedIn: [your-linkedin]
++ 🐙 GitHub: [your-github]
++ 📝 Blog: [your-blog]
+
+---
+
+## 📜 License
+This project is for personal learning and knowledge sharing.
+
+本项目用于个人学习和知识分享。
+
+---
+
+> _"每一个专家都曾经是初学者。"_
+>
+> _"Every expert was once a beginner."_
+>
+
+---
+
+### Netcraft Lab · 网络工坊
+**Build Networks. Build Knowledge. Build Yourself.**
+
+**构建网络 · 构建知识 · 构建自己**
+
+---
