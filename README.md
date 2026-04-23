@@ -9,5 +9,5 @@ Lemon，90后，励志成为SRE领域的网络专家
 #### deepseek 🍻  
 最好的SRE不是从不犯错的工程师，而是能构建容错体系的设计师。对待自己也该如此。 
 
-#### 进一步了解 🥤
-通过"Discussions"打造自己的知识体系，可点击下方⬇️Pinned的Repositories进入，然后点击标签栏🏷️的"Discussions"查看所有文章。
+#### Netcraft Lab · 网络工坊 🌷
+Netcraft Lab · 网络工坊 不只是一个学习项目，它是一个网络工程师的成长实验室。欢迎点击下方⬇️仓库了解。
